@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344685339919",
+    "project_id": "fir-db5a7",
+    "storage_bucket": "fir-db5a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344685339919:android:b2de049fea3a296bd44a7a",
+        "android_client_info": {
+          "package_name": "com.avcode.disease_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344685339919-0nkj4unhckfcnb2fa8qh9s9k9kbat76q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpG9J7q0f-5truCR84zACjK83SHLq_4gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344685339919-0nkj4unhckfcnb2fa8qh9s9k9kbat76q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
