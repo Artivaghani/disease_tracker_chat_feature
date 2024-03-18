@@ -22,4 +22,7 @@ Note : There is some code is hardcode like id and profile
 ~ For doctor : 101
 ~ For Patient : 102
 
+Testing : Tested with the both device android and ios
+
+
 
